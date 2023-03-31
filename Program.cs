@@ -24,3 +24,8 @@ void PrintMainAndSecondArray(string[] array)
     Console.WriteLine();
   }
 }
+
+ReplaceElementsMainToSecondArray (arrayMain, secondArray);
+PrintMainAndSecondArray (arrayMain);
+Console.WriteLine();
+PrintMainAndSecondArray (secondArray);
